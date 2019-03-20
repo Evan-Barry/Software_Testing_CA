@@ -127,8 +127,5 @@ public class Loan {
             numberOfPayments = periodInYears * MONTHS_IN_YEAR;
         }
 
-
-
-
     }
 

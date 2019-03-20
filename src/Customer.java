@@ -50,3 +50,4 @@ public class Customer implements Serializable {
         monthly_payments = loan.getMonthlyPayment();
     }
 }
+
